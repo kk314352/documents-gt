@@ -2,6 +2,8 @@
 
 La Lune est en rotation synchrone avec la Terre, lui montrant donc constamment la même face. Celle-ci, appelée face visible, est marquée par des mers lunaires volcaniques sombres qui remplissent les espaces entre les hautes terres claires et ses cratères d'impact proéminents. Réciproquement, elle possède une face cachée, qui présente moins de mers mais beaucoup plus de cratères, dont le bassin Pôle Sud-Aitken, le plus grand du satellite et l'un des plus grands du Système solaire par son diamètre de 2 500 km. Elle est dépourvue d'atmosphère dense et de champ magnétique. Son influence gravitationnelle sur la Terre produit les marées océaniques, les marées terrestres, un léger allongement de la durée du jour et la stabilisation de l'inclinaison de l'axe terrestre.
 
+![Icone de la Lune](FullMoon2010.jpg)
+
 ## Caractéristiques physiques
 
 - Rayon équatorial	1 737,4 km (0,273 Terre)
