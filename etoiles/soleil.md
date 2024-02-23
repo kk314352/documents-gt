@@ -2,7 +2,7 @@
 
 Mercure est la planète la plus proche du soleil.
 
-![Icone du solei](mercure.png)
+![Icone du solei](soleil.jpg)
 
 Icone créée par [wikipedia](https://fr.wikipedia.org/wiki/Soleil) trouvée sur [wikipedia](https://fr.wikipedia.org/wiki/Soleil).
 
